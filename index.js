@@ -1,5 +1,5 @@
 (window.screenOrientation = "sensor_landscape"),
-  loadLib("libs/min/laya.core.min.js"),
+  loadLib("libs/laya.core.js"),
   loadLib("libs/min/laya.html.min.js"),
   loadLib("libs/min/laya.ui.min.js"),
   loadLib("libs/min/laya.physics.min.js"),
